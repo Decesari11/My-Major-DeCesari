@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+    background-color: rgb(201, 198, 198);
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 35px;
+    font-weight: bold;
+    border: solid white;
+    border-radius: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Georgia;
+    padding: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+  }
+
+  #companies {
+    text-align: center;
+    list-style: inside;
+  }
+  
+  
+  li a{
+    font-family: Arial;
+    color: #000000;
+    font-weight: bold;
+    font-size: 18pt;
+  }
+
+  #date {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+  }
+  
+  
